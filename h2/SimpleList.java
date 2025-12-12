@@ -1,5 +1,5 @@
 package h2;
-
+import java.lang.Integer;
 public class SimpleList {
 Node head;
 SimpleList(){
